@@ -1,5 +1,8 @@
 table img{
-    width: 15%;
+    width: 80%;
+}
+table td{
+    width: 150px;
 }
 .supprimer{
     width: 50px;
@@ -14,3 +17,4 @@ table img{
     background-image: url("./images/modifier.png");
     background-repeat: no-repeat;
 }
+
